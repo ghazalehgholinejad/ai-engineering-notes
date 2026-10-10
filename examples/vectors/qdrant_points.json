@@ -1,0 +1,7 @@
+{
+  "points": [
+    {"id": 1, "vector": [1.0, 0.0, 0.0], "payload": {"language": "fa", "document_id": "demo-1"}},
+    {"id": 2, "vector": [0.8, 0.6, 0.0], "payload": {"language": "fa", "document_id": "demo-2"}},
+    {"id": 3, "vector": [0.0, 1.0, 0.0], "payload": {"language": "en", "document_id": "demo-3"}}
+  ]
+}

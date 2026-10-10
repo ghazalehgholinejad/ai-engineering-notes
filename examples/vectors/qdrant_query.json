@@ -1,0 +1,7 @@
+{
+  "query": [1.0, 0.0, 0.0],
+  "filter": {"must": [{"key": "language", "match": {"value": "fa"}}]},
+  "params": {"exact": true},
+  "limit": 2,
+  "with_payload": true
+}
